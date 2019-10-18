@@ -1,21 +1,12 @@
-# HelloWorld
+# Hello World
 
-**TODO: Add description**
+Install Elixir on your machine -> https://elixir-lang.org/install.html
 
-## Installation
+run `git clone https://github.com/SoorajModi/GCC_Elixir_Hello_World.git`
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `hello_world` to your list of dependencies in `mix.exs`:
+run `mix test`, this is the output you should see:
 
-```elixir
-def deps do
-  [
-    {:hello_world, "~> 0.1.0"}
-  ]
-end
-```
+Poke us on slack if you have any trouble.
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/hello_world](https://hexdocs.pm/hello_world).
+Hope to see you Monday, in Thorn 1307 at 5:30pm :).
 
